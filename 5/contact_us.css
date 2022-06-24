@@ -1,0 +1,119 @@
+body{
+	margin: 0px;
+	/*background-image: url(fb.jpg);*/
+	image-rendering: ;
+
+}
+nav{
+	padding: 20px;
+	background-color: palevioletred;
+	box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+	/*background-color: hsla(120, 100%, 50%, .3);*/
+	/*max-height: 20px;*/
+/*	border: 5px solid #0b5017;*/
+	font-size: 20px;
+	font-weight: bold;
+}
+ul{
+	margin: 0px;
+	padding: 0px;
+}
+li{
+	display: inline;
+	margin-left: 160px;
+	/*list-style-type: square;*/ 
+}
+a{
+	text-decoration: none;
+	color: black;
+}
+.hades{
+	font-size: 50px;
+	font-weight: bold;
+
+	/*color: blue;*/
+}
+.home{
+	margin-left: 0px; 
+	/*color: black;*/
+	/*text-decoration: 3px grey underline;*/
+}
+.underline{
+	text-decoration: 3px grey underline;
+}
+h3{
+	margin: 0 0 30px 196px;
+	color: darkgray;
+	font-size: 50px;
+	padding-top: 20px;
+}
+form{
+	margin: 200px 280px 0 300px;
+	background-color: lightgoldenrodyellow;
+	padding-left: 60px;
+	padding-bottom: 50px;
+	border-radius: 20px;
+}
+.ne{
+	width: 300px;
+	padding: 10px;
+	border-radius: 30px;
+	border: 1px solid deeppink;
+	color: cornflowerblue;
+	font-size: 19px;
+	margin-bottom: 10px;
+}
+.se{
+	width: 627px;
+	padding: 10px;
+	border-radius: 30px;
+	border: 1px solid deeppink;
+	color: cornflowerblue;
+	font-size: 19px;
+	margin-bottom: 10px;
+}
+.me{
+	width: 640px;
+	padding: 10px 0px 200px 10px;
+	border-radius: 30px;
+	border: 1px solid deeppink;
+	color: cornflowerblue;
+	font-size: 19px;
+	margin-bottom: 10px;
+}
+/*input name{
+	width: 600px;
+	padding: 20px;
+	border-radius: 80px;
+	border: 2px solid pink;
+	color: green;
+	font-size: 22px;
+}*/
+button{
+	margin: 10px 0 0 0px;
+	width: 670px;
+	padding-bottom: 25px;
+	padding-top: 25px;
+	font-weight: bold;
+	border-radius: 50px;
+	border: 1px solid lightpink;
+	background-color: lightpink;
+	color: white;
+	box-shadow: 0 0 12px pink rgba(0, 0, 0, 0.3);
+}
+h4{
+	font-weight: bolder;
+	font-size: 60px;
+	margin-bottom: 10px;
+	font-family: Time New Roman, serif;
+	color: crimson;
+}
+.contact{
+	background-color: blueviolet;
+	box-shadow: 12px 0 0;
+	color: black;
+	margin: 6px 0px 0 0px;
+	text-align: center	;
+	padding-bottom: 10px;
+	padding-top: 10x;
+}
